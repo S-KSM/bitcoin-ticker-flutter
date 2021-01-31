@@ -27,5 +27,6 @@ const List<String> cryptoList = [
   'ETH',
   'LTC',
 ];
+String kUrlMain = 'https://rest.coinapi.io';
 
 class CoinData {}
